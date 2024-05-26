@@ -2,7 +2,6 @@
 
 ## Table of Contents 📚
 
-- [Introduction](#introduction)
 - [Architecture](#architecture)
 - [Unsupervised Cross-Modality Back-Translation](#back-translation)
 - [Alignment Strategy](#alignment-strategy)
@@ -10,16 +9,22 @@
 - [Usage](#usage)
 - [Future Work and Contributions](#future-work-and-contributions)
 
-## Introduction 
 
 
 ## Architecture 🔑
-
+<div align="center">
+  <img src="assets/introduction.png" alt="Figure Description or Alt Text" width="80%">
+</div>
 
 ## Unsupervised Cross-Modality Back-Translation 
-
+<div align="center">
+  <img src="assets/backTranslation.png" alt="Figure Description or Alt Text" width="80%">
+</div>
 
 ## Alignment Strategy
+<div align="center">
+  <img src="assets/alignert.png" alt="Figure Description or Alt Text" width="80%">
+</div>
 
 ## Usage
 
