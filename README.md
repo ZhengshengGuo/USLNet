@@ -32,6 +32,17 @@ To our knowledge, USLNet is the first unsupervised sign language translation and
 </div>
 
 ## Usage
+1. **Downloading dataset:** 
+
+
+2. **Unsupervised Video Pretrain:** 
+   - Coming Soon
+
+3. **Unsupervised Text Pretrain:** 
+   - Comming Soon
+
+4. **Unsupervised Back-Translation:** 
+   - Coming Soon
 
 
 ## Citation
