@@ -5,7 +5,6 @@
 - [Architecture](#architecture)
 - [Unsupervised Cross-Modality Back-Translation](#back-translation)
 - [Alignment Strategy](#alignment-strategy)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Citation](#future-work-and-contributions)
 
