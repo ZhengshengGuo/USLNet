@@ -33,16 +33,20 @@ To our knowledge, USLNet is the first unsupervised sign language translation and
 
 ## Usage
 1. **Downloading dataset:** 
-
-
 2. **Unsupervised Video Pretrain:** 
-   - Coming Soon
+   ```
+   bash src/model/videoPretrain.sh ${your_output_dir} $training_pairs$
+   ```
 
 3. **Unsupervised Text Pretrain:** 
-   - Comming Soon
+   ```
+   bash src/model/textPretrain.sh ${your_output_dir} $training_pairs$
+   ```
 
 4. **Unsupervised Back-Translation:** 
-   - Coming Soon
+    ```
+   python3 train/train.py ${your_output_dir} $training_config_json$
+   ```
 
 
 ## Citation
